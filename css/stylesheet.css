@@ -1,0 +1,165 @@
+html, 
+body {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f0f0;
+    overflow: hidden;
+    width: 100%;
+
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    text-rendering: optimizeLegibility;
+}
+
+#svg-icons {
+    position: absolute;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+.entry {
+    font-size: 0;
+   
+}
+
+.entry .line {
+    padding: 1px 0;
+    padding-left: 16px;
+    cursor: pointer;
+}
+
+.entry .entry .line {
+    padding-left: 32px;
+}
+
+.entry .entry .entry .line {
+    padding-left: 48px;
+}
+
+
+.entry.folder > .line:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7px 4px 0 4px;
+    border-color: #808080 transparent transparent transparent;
+    position: relative;
+    left: 3px;
+    top: 3px;
+    margin-right: 8px;
+}
+
+.entry.folder.closed > .line:before {
+    top: 0px;
+    margin-right: 9px;
+    border-width: 4px 0 4px 7px;
+    border-color: transparent transparent transparent #808080;
+}
+
+.entry.folder.closed .entry {
+    display: none;
+}
+
+.entry .line:hover {
+    background: #cccccc;
+}
+
+.entry.other .line {
+    opacity: 0.5;
+    cursor: default;
+}
+
+.entry.other .line:hover {
+    background: transparent;
+}
+
+.entry .icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    fill: #808080;
+    stroke: #808080;
+
+    vertical-align: middle;
+}
+
+.entry .name {
+    font-size: 13px;
+    color: #404040;
+    display: inline-block;
+    padding-bottom: 1px;
+    vertical-align: middle;
+}
+
+.group h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #4f4f4f;
+    padding: 10px;
+    padding-bottom: 6px;
+}
+
+#window {
+    user-select: none;
+    font-size: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#browser {
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    font-size: 16px;
+    vertical-align: top;
+    background: #ebebeb;
+    border-right: 1px #dbdbdb solid;
+}
+
+#screen {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    height: 100%;
+    position: relative;
+    background: #f0f0f0;
+}
+
+#object {
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    font-size: 16px;
+    vertical-align: top;
+    background: #ebebeb;
+    border-left: 1px #dbdbdb solid;
+}
+
+#fps {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#fps > div {
+    position: relative!important;
+}
+
+
+
+
+body.single #browser, body.single #object {
+    display: none;
+}
+
+body.single #screen {
+    width: 100%;
+}
