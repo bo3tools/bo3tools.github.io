@@ -35,7 +35,8 @@ function attachDragAndDropHandlers() {
 
         for (var i = 0; i < files.length; i++) {
             var file = files[i];
-            if (file.name.slice(-4) == ".bo3") {
+            var ext = file.name.toLowerCase().slice(-4);
+            if (ext == ".bo3" || ext == ".bo2") {
                 parseAndShowModel(file);
                 return;
             }
