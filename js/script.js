@@ -160,6 +160,7 @@ function blocksTo3dArray(blocks) {
     };
 
     var voxels = {};
+    var missing = {};
     for (i = 0; i < ln; i++) {
         block = blocks[i];
 
@@ -172,12 +173,15 @@ function blocksTo3dArray(blocks) {
         if (block.z > max.z) max.z = block.z;
 
         if (typeof names[block.block] === "undefined") {
-            console.log(block.block);
+            missing[block.block] = true;
         }
 
         block.id = names[block.block];
         voxels[block.x + "," + block.y + "," + block.z] = block;
     }
+
+    missing = Object.keys(missing);
+    console.warn("BO3Tools: No textures for " + missing.join(", "));
     
     return {voxels: voxels, offset: min, blocks: blocks};
 }
