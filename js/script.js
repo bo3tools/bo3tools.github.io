@@ -181,7 +181,9 @@ function blocksTo3dArray(blocks) {
     }
 
     missing = Object.keys(missing);
-    console.warn("BO3Tools: No textures for " + missing.join(", "));
+    if (missing.length > 0) {
+        console.warn("BO3Tools: No textures for " + missing.join(", "));
+    }
     
     return {voxels: voxels, offset: min, blocks: blocks};
 }
