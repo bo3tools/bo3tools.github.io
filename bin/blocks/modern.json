@@ -1,0 +1,6062 @@
+[
+    {
+        "title": "Acacia Boat",
+        "legacy": 447,
+        "name": "minecraft:acacia_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Acacia Button",
+        "legacy": null,
+        "name": "minecraft:acacia_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Acacia Door",
+        "legacy": 430,
+        "name": "minecraft:acacia_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Acacia Fence",
+        "legacy": 192,
+        "name": "minecraft:acacia_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Acacia Fence Gate",
+        "legacy": 187,
+        "name": "minecraft:acacia_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Acacia Leaves",
+        "legacy": null,
+        "name": "minecraft:acacia_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Acacia Log",
+        "legacy": null,
+        "name": "minecraft:acacia_log",
+        "category": "materials"
+    },
+    {
+        "title": "Acacia Wood Plank",
+        "legacy": null,
+        "name": "minecraft:acacia_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Acacia Pressure Plate",
+        "legacy": null,
+        "name": "minecraft:acacia_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Acacia Sapling",
+        "legacy": null,
+        "name": "minecraft:acacia_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Acacia Sign",
+        "legacy": null,
+        "name": "minecraft:acacia_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Acacia Wood Slab",
+        "legacy": null,
+        "name": "minecraft:acacia_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Acacia Wood Stairs",
+        "legacy": 163,
+        "name": "minecraft:acacia_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Acacia Trapdoor",
+        "legacy": null,
+        "name": "minecraft:acacia_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Acacia Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:acacia_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Activator Rails",
+        "legacy": 157,
+        "name": "minecraft:activator_rail",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Air",
+        "legacy": null,
+        "name": "minecraft:air",
+        "category": "materials"
+    },
+    {
+        "title": "Allium",
+        "legacy": null,
+        "name": "minecraft:allium",
+        "category": "materials"
+    },
+    {
+        "title": "Andesite",
+        "legacy": null,
+        "name": "minecraft:andesite",
+        "category": "materials"
+    },
+    {
+        "title": "Andesite Slab",
+        "legacy": null,
+        "name": "minecraft:andesite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Andesite Stairs",
+        "legacy": null,
+        "name": "minecraft:andesite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Andesite Wall",
+        "legacy": null,
+        "name": "minecraft:andesite_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Anvil",
+        "legacy": 145,
+        "name": "minecraft:anvil",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Apple",
+        "legacy": 260,
+        "name": "minecraft:apple",
+        "category": "materials"
+    },
+    {
+        "title": "Armor Stand",
+        "legacy": 416,
+        "name": "minecraft:armor_stand",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Arrow",
+        "legacy": 262,
+        "name": "minecraft:arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Azure Bluet",
+        "legacy": null,
+        "name": "minecraft:azure_bluet",
+        "category": "materials"
+    },
+    {
+        "title": "Baked Potato",
+        "legacy": 393,
+        "name": "minecraft:baked_potato",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Bamboo",
+        "legacy": null,
+        "name": "minecraft:bamboo",
+        "category": "materials"
+    },
+    {
+        "title": "Barrel",
+        "legacy": null,
+        "name": "minecraft:barrel",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Barrier",
+        "legacy": 166,
+        "name": "minecraft:barrier",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Bat Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:bat_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Beacon",
+        "legacy": 138,
+        "name": "minecraft:beacon",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Bedrock",
+        "legacy": null,
+        "name": "minecraft:bedrock",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Raw Beef",
+        "legacy": 363,
+        "name": "minecraft:beef",
+        "category": "materials"
+    },
+    {
+        "title": "Beetroot",
+        "legacy": 434,
+        "name": "minecraft:beetroot",
+        "category": "materials"
+    },
+    {
+        "title": "Beetroot Seeds",
+        "legacy": 435,
+        "name": "minecraft:beetroot_seeds",
+        "category": "materials"
+    },
+    {
+        "title": "Beetroot Soup",
+        "legacy": 436,
+        "name": "minecraft:beetroot_soup",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Bell",
+        "legacy": null,
+        "name": "minecraft:bell",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Birch Boat",
+        "legacy": 445,
+        "name": "minecraft:birch_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Birch Button",
+        "legacy": null,
+        "name": "minecraft:birch_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Birch Door",
+        "legacy": 428,
+        "name": "minecraft:birch_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Birch Fence",
+        "legacy": 189,
+        "name": "minecraft:birch_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Birch Fence Gate",
+        "legacy": 184,
+        "name": "minecraft:birch_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Birch Leaves",
+        "legacy": null,
+        "name": "minecraft:birch_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Birch Log",
+        "legacy": null,
+        "name": "minecraft:birch_log",
+        "category": "materials"
+    },
+    {
+        "title": "Birch Wood Plank",
+        "legacy": null,
+        "name": "minecraft:birch_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Birch Pressure Plate",
+        "legacy": null,
+        "name": "minecraft:birch_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Birch Sapling",
+        "legacy": null,
+        "name": "minecraft:birch_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Birch Sign",
+        "legacy": null,
+        "name": "minecraft:birch_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Birch Wood Slab",
+        "legacy": null,
+        "name": "minecraft:birch_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Birch Wood Stairs",
+        "legacy": 135,
+        "name": "minecraft:birch_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Birch Trapdoor",
+        "legacy": null,
+        "name": "minecraft:birch_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Birch Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:birch_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Black Banner",
+        "legacy": null,
+        "name": "minecraft:black_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Black Bed",
+        "legacy": null,
+        "name": "minecraft:black_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Black Carpet",
+        "legacy": null,
+        "name": "minecraft:black_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Black Concrete",
+        "legacy": null,
+        "name": "minecraft:black_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Black Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:black_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Black Dye",
+        "legacy": null,
+        "name": "minecraft:black_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Black Glazed Terracotta",
+        "legacy": 250,
+        "name": "minecraft:black_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Black Shulker Box",
+        "legacy": 234,
+        "name": "minecraft:black_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Black Stained Glass",
+        "legacy": null,
+        "name": "minecraft:black_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Black Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:black_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Black Terracotta",
+        "legacy": null,
+        "name": "minecraft:black_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Black Wool",
+        "legacy": null,
+        "name": "minecraft:black_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Blast Furnace",
+        "legacy": null,
+        "name": "minecraft:blast_furnace",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Blaze Powder",
+        "legacy": 377,
+        "name": "minecraft:blaze_powder",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Blaze Rod",
+        "legacy": 369,
+        "name": "minecraft:blaze_rod",
+        "category": "materials"
+    },
+    {
+        "title": "Blaze Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:blaze_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Blue Banner",
+        "legacy": null,
+        "name": "minecraft:blue_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Blue Bed",
+        "legacy": null,
+        "name": "minecraft:blue_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Blue Carpet",
+        "legacy": null,
+        "name": "minecraft:blue_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Blue Concrete",
+        "legacy": null,
+        "name": "minecraft:blue_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Blue Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:blue_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Blue Dye",
+        "legacy": null,
+        "name": "minecraft:blue_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Blue Glazed Terracotta",
+        "legacy": 246,
+        "name": "minecraft:blue_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Blue Ice",
+        "legacy": null,
+        "name": "minecraft:blue_ice",
+        "category": "materials"
+    },
+    {
+        "title": "Blue Orchid",
+        "legacy": null,
+        "name": "minecraft:blue_orchid",
+        "category": "materials"
+    },
+    {
+        "title": "Blue Shulker Box",
+        "legacy": 230,
+        "name": "minecraft:blue_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Blue Stained Glass",
+        "legacy": null,
+        "name": "minecraft:blue_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Blue Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:blue_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Blue Terracotta",
+        "legacy": null,
+        "name": "minecraft:blue_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Blue Wool",
+        "legacy": null,
+        "name": "minecraft:blue_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Bone",
+        "legacy": 352,
+        "name": "minecraft:bone",
+        "category": "materials"
+    },
+    {
+        "title": "Bone Block",
+        "legacy": 216,
+        "name": "minecraft:bone_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Bone Meal",
+        "legacy": null,
+        "name": "minecraft:bone_meal",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Book",
+        "legacy": 340,
+        "name": "minecraft:book",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Bookshelf",
+        "legacy": 47,
+        "name": "minecraft:bookshelf",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Bow",
+        "legacy": 261,
+        "name": "minecraft:bow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Bowl",
+        "legacy": 281,
+        "name": "minecraft:bowl",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Brain Coral",
+        "legacy": null,
+        "name": "minecraft:brain_coral",
+        "category": "materials"
+    },
+    {
+        "title": "Brain Coral Block",
+        "legacy": null,
+        "name": "minecraft:brain_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Brain Coral Fan",
+        "legacy": null,
+        "name": "minecraft:brain_coral_fan",
+        "category": "materials"
+    },
+    {
+        "title": "Bread",
+        "legacy": 297,
+        "name": "minecraft:bread",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Brewing Stand",
+        "legacy": 379,
+        "name": "minecraft:brewing_stand",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Brick",
+        "legacy": 336,
+        "name": "minecraft:brick",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Brick Slab",
+        "legacy": null,
+        "name": "minecraft:brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brick Stairs",
+        "legacy": 108,
+        "name": "minecraft:brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brick Wall",
+        "legacy": null,
+        "name": "minecraft:brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Bricks",
+        "legacy": null,
+        "name": "minecraft:bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brown Banner",
+        "legacy": null,
+        "name": "minecraft:brown_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Brown Bed",
+        "legacy": null,
+        "name": "minecraft:brown_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Brown Carpet",
+        "legacy": null,
+        "name": "minecraft:brown_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Brown Concrete",
+        "legacy": null,
+        "name": "minecraft:brown_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brown Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:brown_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brown Dye",
+        "legacy": null,
+        "name": "minecraft:brown_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Brown Glazed Terracotta",
+        "legacy": 247,
+        "name": "minecraft:brown_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Mushroom (brown)",
+        "legacy": 39,
+        "name": "minecraft:brown_mushroom",
+        "category": "materials"
+    },
+    {
+        "title": "Brown Mushroom Block",
+        "legacy": 99,
+        "name": "minecraft:brown_mushroom_block",
+        "category": "materials"
+    },
+    {
+        "title": "Brown Shulker Box",
+        "legacy": 231,
+        "name": "minecraft:brown_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Brown Stained Glass",
+        "legacy": null,
+        "name": "minecraft:brown_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brown Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:brown_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Brown Terracotta",
+        "legacy": null,
+        "name": "minecraft:brown_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Brown Wool",
+        "legacy": null,
+        "name": "minecraft:brown_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Bubble Coral",
+        "legacy": null,
+        "name": "minecraft:bubble_coral",
+        "category": "materials"
+    },
+    {
+        "title": "Bubble Coral Block",
+        "legacy": null,
+        "name": "minecraft:bubble_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Bubble Coral Fan",
+        "legacy": null,
+        "name": "minecraft:bubble_coral_fan",
+        "category": "materials"
+    },
+    {
+        "title": "Bucket",
+        "legacy": 325,
+        "name": "minecraft:bucket",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Cactus",
+        "legacy": 81,
+        "name": "minecraft:cactus",
+        "category": "materials"
+    },
+    {
+        "title": "Cake",
+        "legacy": 354,
+        "name": "minecraft:cake",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Campire",
+        "legacy": null,
+        "name": "minecraft:campfire",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Carrot",
+        "legacy": 391,
+        "name": "minecraft:carrot",
+        "category": "materials"
+    },
+    {
+        "title": "Carrot on a Stick",
+        "legacy": 398,
+        "name": "minecraft:carrot_on_a_stick",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Cartography Table",
+        "legacy": null,
+        "name": "minecraft:cartography_table",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Carved Pumpkin",
+        "legacy": null,
+        "name": "minecraft:carved_pumpkin",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cat Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:cat_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Cauldron",
+        "legacy": 380,
+        "name": "minecraft:cauldron",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Cave Spider Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:cave_spider_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Chain Command Block",
+        "legacy": 211,
+        "name": "minecraft:chain_command_block",
+        "category": "command_blocks"
+    },
+    {
+        "title": "Chain Boots",
+        "legacy": 305,
+        "name": "minecraft:chainmail_boots",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Chain Chestplate",
+        "legacy": 303,
+        "name": "minecraft:chainmail_chestplate",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Chain Helmet",
+        "legacy": 302,
+        "name": "minecraft:chainmail_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Chain Leggings",
+        "legacy": 304,
+        "name": "minecraft:chainmail_leggings",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Charcoal",
+        "legacy": null,
+        "name": "minecraft:charcoal",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Chest",
+        "legacy": 54,
+        "name": "minecraft:chest",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Minecart with Chest",
+        "legacy": 342,
+        "name": "minecraft:chest_minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Raw Chicken",
+        "legacy": 365,
+        "name": "minecraft:chicken",
+        "category": "materials"
+    },
+    {
+        "title": "Chicken Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:chicken_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Slightly Damaged Anvil",
+        "legacy": 145,
+        "name": "minecraft:chipped_anvil",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Chiseled Quartz Block",
+        "legacy": null,
+        "name": "minecraft:chiseled_quartz_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Chiseled Red Sandstone",
+        "legacy": null,
+        "name": "minecraft:chiseled_red_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Chiseled Sandstone",
+        "legacy": null,
+        "name": "minecraft:chiseled_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Chiseled Stone Bricks",
+        "legacy": null,
+        "name": "minecraft:chiseled_stone_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Chorus Flower",
+        "legacy": 200,
+        "name": "minecraft:chorus_flower",
+        "category": "materials"
+    },
+    {
+        "title": "Chorus Fruit",
+        "legacy": 432,
+        "name": "minecraft:chorus_fruit",
+        "category": "materials"
+    },
+    {
+        "title": "Chorus Plant",
+        "legacy": 199,
+        "name": "minecraft:chorus_plant",
+        "category": "materials"
+    },
+    {
+        "title": "Clay Block",
+        "legacy": 82,
+        "name": "minecraft:clay",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Clay",
+        "legacy": 337,
+        "name": "minecraft:clay_ball",
+        "category": "materials"
+    },
+    {
+        "title": "Clock",
+        "legacy": 347,
+        "name": "minecraft:clock",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Coal",
+        "legacy": 263,
+        "name": "minecraft:coal",
+        "category": "materials"
+    },
+    {
+        "title": "Coal Block",
+        "legacy": 173,
+        "name": "minecraft:coal_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Coal Ore",
+        "legacy": 16,
+        "name": "minecraft:coal_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Coarse Dirt",
+        "legacy": null,
+        "name": "minecraft:coarse_dirt",
+        "category": "materials"
+    },
+    {
+        "title": "Cobblestone",
+        "legacy": 4,
+        "name": "minecraft:cobblestone",
+        "category": "materials"
+    },
+    {
+        "title": "Cobblestone Slab",
+        "legacy": null,
+        "name": "minecraft:cobblestone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cobblestone Stairs",
+        "legacy": null,
+        "name": "minecraft:cobblestone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cobblestone Wall",
+        "legacy": 139,
+        "name": "minecraft:cobblestone_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cobweb",
+        "legacy": 30,
+        "name": "minecraft:cobweb",
+        "category": "materials"
+    },
+    {
+        "title": "Cocoa Beans",
+        "legacy": null,
+        "name": "minecraft:cocoa_beans",
+        "category": "materials"
+    },
+    {
+        "title": "Raw Cod",
+        "legacy": null,
+        "name": "minecraft:cod",
+        "category": "materials"
+    },
+    {
+        "title": "Bucket of Cod",
+        "legacy": null,
+        "name": "minecraft:cod_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Cod Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:cod_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Command Block",
+        "legacy": 137,
+        "name": "minecraft:command_block",
+        "category": "command_blocks"
+    },
+    {
+        "title": "Minecart with Command Block",
+        "legacy": 422,
+        "name": "minecraft:command_block_minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Redstone Comparator",
+        "legacy": 404,
+        "name": "minecraft:comparator",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Compass",
+        "legacy": 345,
+        "name": "minecraft:compass",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Composter",
+        "legacy": null,
+        "name": "minecraft:composter",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Conduit",
+        "legacy": null,
+        "name": "minecraft:conduit",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Steak",
+        "legacy": 364,
+        "name": "minecraft:cooked_beef",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Chicken",
+        "legacy": 366,
+        "name": "minecraft:cooked_chicken",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Cod",
+        "legacy": null,
+        "name": "minecraft:cooked_cod",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Mutton",
+        "legacy": 424,
+        "name": "minecraft:cooked_mutton",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Porkchop",
+        "legacy": 320,
+        "name": "minecraft:cooked_porkchop",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Rabbit",
+        "legacy": 412,
+        "name": "minecraft:cooked_rabbit",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cooked Salmon",
+        "legacy": null,
+        "name": "minecraft:cooked_salmon",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cookie",
+        "legacy": 357,
+        "name": "minecraft:cookie",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Cornflower",
+        "legacy": null,
+        "name": "minecraft:cornflower",
+        "category": "materials"
+    },
+    {
+        "title": "Cow Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:cow_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Cracked Stone Bricks",
+        "legacy": null,
+        "name": "minecraft:cracked_stone_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Crafting Table",
+        "legacy": 58,
+        "name": "minecraft:crafting_table",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Creeper Charge Banner Pattern",
+        "legacy": null,
+        "name": "minecraft:creeper_banner_pattern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Creeper Head",
+        "legacy": null,
+        "name": "minecraft:creeper_head",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Creeper Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:creeper_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Crossbow",
+        "legacy": null,
+        "name": "minecraft:crossbow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Cut Red Sandstone",
+        "legacy": null,
+        "name": "minecraft:cut_red_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cut Red Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:cut_red_sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cut Sandstone",
+        "legacy": null,
+        "name": "minecraft:cut_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cut Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:cut_sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cyan Banner",
+        "legacy": null,
+        "name": "minecraft:cyan_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cyan Bed",
+        "legacy": null,
+        "name": "minecraft:cyan_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Cyan Carpet",
+        "legacy": null,
+        "name": "minecraft:cyan_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cyan Concrete",
+        "legacy": null,
+        "name": "minecraft:cyan_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cyan Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:cyan_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cyan Dye",
+        "legacy": null,
+        "name": "minecraft:cyan_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Cyan Glazed Terracotta",
+        "legacy": 244,
+        "name": "minecraft:cyan_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cyan Shulker Box",
+        "legacy": 228,
+        "name": "minecraft:cyan_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cyan Stained Glass",
+        "legacy": null,
+        "name": "minecraft:cyan_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cyan Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:cyan_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cyan Terracotta",
+        "legacy": null,
+        "name": "minecraft:cyan_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Cyan Wool",
+        "legacy": null,
+        "name": "minecraft:cyan_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Very Damaged Anvil",
+        "legacy": 145,
+        "name": "minecraft:damaged_anvil",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Dandelion",
+        "legacy": 37,
+        "name": "minecraft:dandelion",
+        "category": "materials"
+    },
+    {
+        "title": "Dark Oak Boat",
+        "legacy": 448,
+        "name": "minecraft:dark_oak_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Dark Oak Button",
+        "legacy": null,
+        "name": "minecraft:dark_oak_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Dark Oak Door",
+        "legacy": 431,
+        "name": "minecraft:dark_oak_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Dark Oak Fence",
+        "legacy": 191,
+        "name": "minecraft:dark_oak_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Dark Oak Fence Gate",
+        "legacy": 186,
+        "name": "minecraft:dark_oak_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Dark Oak Leaves",
+        "legacy": null,
+        "name": "minecraft:dark_oak_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Dark Oak Log",
+        "legacy": null,
+        "name": "minecraft:dark_oak_log",
+        "category": "materials"
+    },
+    {
+        "title": "Dark Oak Wood Plank",
+        "legacy": null,
+        "name": "minecraft:dark_oak_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Dark Oak Pressure Plate",
+        "legacy": null,
+        "name": "minecraft:dark_oak_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Dark Oak Sapling",
+        "legacy": null,
+        "name": "minecraft:dark_oak_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Dark Oak Sign",
+        "legacy": null,
+        "name": "minecraft:dark_oak_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Dark Oak Wood Slab",
+        "legacy": null,
+        "name": "minecraft:dark_oak_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dark Oak Wood Stairs",
+        "legacy": 164,
+        "name": "minecraft:dark_oak_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dark Oak Trapdoor",
+        "legacy": null,
+        "name": "minecraft:dark_oak_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Dark Oak Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:dark_oak_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dark Prismarine",
+        "legacy": null,
+        "name": "minecraft:dark_prismarine",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dark Prismarine Slab",
+        "legacy": null,
+        "name": "minecraft:dark_prismarine_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dark Prismarine Stairs",
+        "legacy": null,
+        "name": "minecraft:dark_prismarine_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Daylight Sensor",
+        "legacy": 151,
+        "name": "minecraft:daylight_detector",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Dead Brain Coral Block",
+        "legacy": null,
+        "name": "minecraft:dead_brain_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Dead Bubble Coral Block",
+        "legacy": null,
+        "name": "minecraft:dead_bubble_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Dead Bush",
+        "legacy": 32,
+        "name": "minecraft:dead_bush",
+        "category": "materials"
+    },
+    {
+        "title": "Dead Fire Coral Block",
+        "legacy": null,
+        "name": "minecraft:dead_fire_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Dead Horn Coral Block",
+        "legacy": null,
+        "name": "minecraft:dead_horn_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Dead Tube Coral Block",
+        "legacy": null,
+        "name": "minecraft:dead_tube_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Detector Rails",
+        "legacy": 28,
+        "name": "minecraft:detector_rail",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Diamond",
+        "legacy": 264,
+        "name": "minecraft:diamond",
+        "category": "materials"
+    },
+    {
+        "title": "Diamond Axe",
+        "legacy": 279,
+        "name": "minecraft:diamond_axe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Block of Diamond",
+        "legacy": 57,
+        "name": "minecraft:diamond_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Diamond Boots",
+        "legacy": 313,
+        "name": "minecraft:diamond_boots",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Diamond Chestplate",
+        "legacy": 311,
+        "name": "minecraft:diamond_chestplate",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Diamond Helmet",
+        "legacy": 310,
+        "name": "minecraft:diamond_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Diamond Hoe",
+        "legacy": 293,
+        "name": "minecraft:diamond_hoe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Diamond Horse Armor",
+        "legacy": 419,
+        "name": "minecraft:diamond_horse_armor",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Diamond Leggings",
+        "legacy": 312,
+        "name": "minecraft:diamond_leggings",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Diamond Ore",
+        "legacy": 56,
+        "name": "minecraft:diamond_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Diamond Pickaxe",
+        "legacy": 278,
+        "name": "minecraft:diamond_pickaxe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Diamond Shovel",
+        "legacy": 277,
+        "name": "minecraft:diamond_shovel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Diamond Sword",
+        "legacy": 276,
+        "name": "minecraft:diamond_sword",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Diorite",
+        "legacy": null,
+        "name": "minecraft:diorite",
+        "category": "materials"
+    },
+    {
+        "title": "Diorite Slab",
+        "legacy": null,
+        "name": "minecraft:diorite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Diorite Stairs",
+        "legacy": null,
+        "name": "minecraft:diorite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Diorite Wall",
+        "legacy": null,
+        "name": "minecraft:diorite_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dirt",
+        "legacy": 3,
+        "name": "minecraft:dirt",
+        "category": "materials"
+    },
+    {
+        "title": "Dispenser",
+        "legacy": 23,
+        "name": "minecraft:dispenser",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Dolphin Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:dolphin_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Donkey Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:donkey_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Dragon's Breath",
+        "legacy": 437,
+        "name": "minecraft:dragon_breath",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Dragon Egg",
+        "legacy": 122,
+        "name": "minecraft:dragon_egg",
+        "category": "materials"
+    },
+    {
+        "title": "Dragon Head",
+        "legacy": null,
+        "name": "minecraft:dragon_head",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Dried Kelp",
+        "legacy": null,
+        "name": "minecraft:dried_kelp",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Dried Kelp Block",
+        "legacy": null,
+        "name": "minecraft:dried_kelp_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Dropper",
+        "legacy": 158,
+        "name": "minecraft:dropper",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Drowned Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:drowned_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Egg",
+        "legacy": 344,
+        "name": "minecraft:egg",
+        "category": "materials"
+    },
+    {
+        "title": "Elder Guardian Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:elder_guardian_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Elytra",
+        "legacy": 443,
+        "name": "minecraft:elytra",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Emerald",
+        "legacy": 388,
+        "name": "minecraft:emerald",
+        "category": "materials"
+    },
+    {
+        "title": "Block of Emerald",
+        "legacy": 133,
+        "name": "minecraft:emerald_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Emerald Ore",
+        "legacy": 129,
+        "name": "minecraft:emerald_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Enchanted Book",
+        "legacy": 403,
+        "name": "minecraft:enchanted_book",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Enchanted Golden Apple",
+        "legacy": 322,
+        "name": "minecraft:enchanted_golden_apple",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Enchanting Table",
+        "legacy": 116,
+        "name": "minecraft:enchanting_table",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "End Crystal",
+        "legacy": 426,
+        "name": "minecraft:end_crystal",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "End Portal Frame",
+        "legacy": 120,
+        "name": "minecraft:end_portal_frame",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "End Rod",
+        "legacy": 198,
+        "name": "minecraft:end_rod",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "End Stone",
+        "legacy": 121,
+        "name": "minecraft:end_stone",
+        "category": "materials"
+    },
+    {
+        "title": "End Stone Brick Slab",
+        "legacy": null,
+        "name": "minecraft:end_stone_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "End Stone Brick Stairs",
+        "legacy": null,
+        "name": "minecraft:end_stone_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "End Stone Brick Wall",
+        "legacy": null,
+        "name": "minecraft:end_stone_brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "End Stone Bricks",
+        "legacy": 206,
+        "name": "minecraft:end_stone_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Ender Chest",
+        "legacy": 130,
+        "name": "minecraft:ender_chest",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Eye of Ender",
+        "legacy": 381,
+        "name": "minecraft:ender_eye",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Ender Pearl",
+        "legacy": 368,
+        "name": "minecraft:ender_pearl",
+        "category": "materials"
+    },
+    {
+        "title": "Enderman Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:enderman_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Endermite Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:endermite_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Evoker Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:evoker_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Bottle o'Enchanting",
+        "legacy": 384,
+        "name": "minecraft:experience_bottle",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Farmland",
+        "legacy": 60,
+        "name": "minecraft:farmland",
+        "category": "materials"
+    },
+    {
+        "title": "Feather",
+        "legacy": 288,
+        "name": "minecraft:feather",
+        "category": "materials"
+    },
+    {
+        "title": "Fermented Spider Eye",
+        "legacy": 376,
+        "name": "minecraft:fermented_spider_eye",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Fern",
+        "legacy": null,
+        "name": "minecraft:fern",
+        "category": "materials"
+    },
+    {
+        "title": "Fire Charge",
+        "legacy": 385,
+        "name": "minecraft:fire_charge",
+        "category": "firework_recipes"
+    },
+    {
+        "title": "Fire Coral",
+        "legacy": null,
+        "name": "minecraft:fire_coral",
+        "category": "materials"
+    },
+    {
+        "title": "Fire Coral Block",
+        "legacy": null,
+        "name": "minecraft:fire_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Fire Coral Fan",
+        "legacy": null,
+        "name": "minecraft:fire_coral_fan",
+        "category": "materials"
+    },
+    {
+        "title": "Firework Rocket",
+        "legacy": 401,
+        "name": "minecraft:firework_rocket",
+        "category": "firework_recipes"
+    },
+    {
+        "title": "Fishing Rod",
+        "legacy": 346,
+        "name": "minecraft:fishing_rod",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Fletching Table",
+        "legacy": null,
+        "name": "minecraft:fletching_table",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Flint",
+        "legacy": 318,
+        "name": "minecraft:flint",
+        "category": "materials"
+    },
+    {
+        "title": "Flint and Steel",
+        "legacy": 259,
+        "name": "minecraft:flint_and_steel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Flower Charge Banner Pattern",
+        "legacy": null,
+        "name": "minecraft:flower_banner_pattern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Flower Pot",
+        "legacy": 390,
+        "name": "minecraft:flower_pot",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Fox Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:fox_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Furnace",
+        "legacy": 61,
+        "name": "minecraft:furnace",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Minecart with Furnace",
+        "legacy": 343,
+        "name": "minecraft:furnace_minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Ghast Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:ghast_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Ghast Tear",
+        "legacy": 370,
+        "name": "minecraft:ghast_tear",
+        "category": "materials"
+    },
+    {
+        "title": "Glass",
+        "legacy": 20,
+        "name": "minecraft:glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Glass Bottle",
+        "legacy": 374,
+        "name": "minecraft:glass_bottle",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Glass Pane",
+        "legacy": 102,
+        "name": "minecraft:glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Glistering Melon",
+        "legacy": 382,
+        "name": "minecraft:glistering_melon_slice",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Globe Banner Pattern",
+        "legacy": null,
+        "name": "minecraft:globe_banner_pattern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Glowstone",
+        "legacy": 89,
+        "name": "minecraft:glowstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Glowstone Dust",
+        "legacy": 348,
+        "name": "minecraft:glowstone_dust",
+        "category": "materials"
+    },
+    {
+        "title": "Block of Gold",
+        "legacy": 41,
+        "name": "minecraft:gold_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Gold Ingot",
+        "legacy": 266,
+        "name": "minecraft:gold_ingot",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Gold Nugget",
+        "legacy": 371,
+        "name": "minecraft:gold_nugget",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Gold Ore",
+        "legacy": 14,
+        "name": "minecraft:gold_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Golden Apple",
+        "legacy": 322,
+        "name": "minecraft:golden_apple",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Golden Axe",
+        "legacy": 286,
+        "name": "minecraft:golden_axe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Golden Boots",
+        "legacy": 317,
+        "name": "minecraft:golden_boots",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Golden Carrot",
+        "legacy": 396,
+        "name": "minecraft:golden_carrot",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Golden Chestplate",
+        "legacy": 315,
+        "name": "minecraft:golden_chestplate",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Golden Helmet",
+        "legacy": 314,
+        "name": "minecraft:golden_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Golden Hoe",
+        "legacy": 294,
+        "name": "minecraft:golden_hoe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Gold Horse Armor",
+        "legacy": 418,
+        "name": "minecraft:golden_horse_armor",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Golden Leggings",
+        "legacy": 316,
+        "name": "minecraft:golden_leggings",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Golden Pickaxe",
+        "legacy": 285,
+        "name": "minecraft:golden_pickaxe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Golden Shovel",
+        "legacy": 284,
+        "name": "minecraft:golden_shovel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Golden Sword",
+        "legacy": 283,
+        "name": "minecraft:golden_sword",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Granite",
+        "legacy": null,
+        "name": "minecraft:granite",
+        "category": "materials"
+    },
+    {
+        "title": "Granite Slab",
+        "legacy": null,
+        "name": "minecraft:granite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Granite Stairs",
+        "legacy": null,
+        "name": "minecraft:granite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Granite Wall",
+        "legacy": null,
+        "name": "minecraft:granite_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Grass",
+        "legacy": null,
+        "name": "minecraft:grass",
+        "category": "materials"
+    },
+    {
+        "title": "Grass Block",
+        "legacy": 2,
+        "name": "minecraft:grass_block",
+        "category": "materials"
+    },
+    {
+        "title": "Grass Path",
+        "legacy": 208,
+        "name": "minecraft:grass_path",
+        "category": "materials"
+    },
+    {
+        "title": "Gravel",
+        "legacy": 13,
+        "name": "minecraft:gravel",
+        "category": "materials"
+    },
+    {
+        "title": "Gray Banner",
+        "legacy": null,
+        "name": "minecraft:gray_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Gray Bed",
+        "legacy": null,
+        "name": "minecraft:gray_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Gray Carpet",
+        "legacy": null,
+        "name": "minecraft:gray_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Gray Concrete",
+        "legacy": null,
+        "name": "minecraft:gray_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Gray Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:gray_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Gray Dye",
+        "legacy": null,
+        "name": "minecraft:gray_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Gray Glazed Terracotta",
+        "legacy": 242,
+        "name": "minecraft:gray_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Gray Shulker Box",
+        "legacy": 226,
+        "name": "minecraft:gray_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Gray Stained Glass",
+        "legacy": null,
+        "name": "minecraft:gray_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Gray Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:gray_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Gray Terracotta",
+        "legacy": null,
+        "name": "minecraft:gray_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Gray Wool",
+        "legacy": null,
+        "name": "minecraft:gray_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Green Banner",
+        "legacy": null,
+        "name": "minecraft:green_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Green Bed",
+        "legacy": null,
+        "name": "minecraft:green_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Green Carpet",
+        "legacy": null,
+        "name": "minecraft:green_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Green Concrete",
+        "legacy": null,
+        "name": "minecraft:green_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Green Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:green_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Green Dye",
+        "legacy": null,
+        "name": "minecraft:green_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Green Glazed Terracotta",
+        "legacy": 248,
+        "name": "minecraft:green_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Green Shulker Box",
+        "legacy": 232,
+        "name": "minecraft:green_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Green Stained Glass",
+        "legacy": null,
+        "name": "minecraft:green_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Green Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:green_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Green Terracotta",
+        "legacy": null,
+        "name": "minecraft:green_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Green Wool",
+        "legacy": null,
+        "name": "minecraft:green_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Grindstone",
+        "legacy": null,
+        "name": "minecraft:grindstone",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Guardian Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:guardian_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Gunpowder",
+        "legacy": 289,
+        "name": "minecraft:gunpowder",
+        "category": "materials"
+    },
+    {
+        "title": "Hay Bale",
+        "legacy": 170,
+        "name": "minecraft:hay_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Heart of the Sea",
+        "legacy": null,
+        "name": "minecraft:heart_of_the_sea",
+        "category": "materials"
+    },
+    {
+        "title": "Heavy Weighted Pressure Plate",
+        "legacy": 148,
+        "name": "minecraft:heavy_weighted_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Hopper",
+        "legacy": 154,
+        "name": "minecraft:hopper",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Minecart with Hopper",
+        "legacy": 408,
+        "name": "minecraft:hopper_minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Horn Coral",
+        "legacy": null,
+        "name": "minecraft:horn_coral",
+        "category": "materials"
+    },
+    {
+        "title": "Horn Coral Block",
+        "legacy": null,
+        "name": "minecraft:horn_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Horn Coral Fan",
+        "legacy": null,
+        "name": "minecraft:horn_coral_fan",
+        "category": "materials"
+    },
+    {
+        "title": "Horse Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:horse_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Husk Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:husk_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Ice",
+        "legacy": 79,
+        "name": "minecraft:ice",
+        "category": "materials"
+    },
+    {
+        "title": "Chiseled Stone Brick Monster Egg (Silverfish Chiseled Stone Brick)",
+        "legacy": null,
+        "name": "minecraft:infested_chiseled_stone_bricks",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cobblestone Monster Egg (Silverfish Cobblestone)",
+        "legacy": null,
+        "name": "minecraft:infested_cobblestone",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Cracked Stone Brick Monster Egg (Silverfish Cracked Stone Brick)",
+        "legacy": null,
+        "name": "minecraft:infested_cracked_stone_bricks",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Mossy Stone Brick Monster Egg (Silverfish Mossy Stone Brick)",
+        "legacy": null,
+        "name": "minecraft:infested_mossy_stone_bricks",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Stone Monster Egg (Silverfish Stone)",
+        "legacy": null,
+        "name": "minecraft:infested_stone",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Stone Brick Monster Egg (Silverfish Stone Brick)",
+        "legacy": null,
+        "name": "minecraft:infested_stone_bricks",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Ink Sac",
+        "legacy": null,
+        "name": "minecraft:ink_sac",
+        "category": "materials"
+    },
+    {
+        "title": "Iron Axe",
+        "legacy": 258,
+        "name": "minecraft:iron_axe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Iron Bars",
+        "legacy": 101,
+        "name": "minecraft:iron_bars",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Block of Iron",
+        "legacy": 42,
+        "name": "minecraft:iron_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Iron Boots",
+        "legacy": 309,
+        "name": "minecraft:iron_boots",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Iron Chestplate",
+        "legacy": 307,
+        "name": "minecraft:iron_chestplate",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Iron Door",
+        "legacy": 330,
+        "name": "minecraft:iron_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Iron Helmet",
+        "legacy": 306,
+        "name": "minecraft:iron_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Iron Hoe",
+        "legacy": 292,
+        "name": "minecraft:iron_hoe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Iron Horse Armor",
+        "legacy": 417,
+        "name": "minecraft:iron_horse_armor",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Iron Ingot",
+        "legacy": 265,
+        "name": "minecraft:iron_ingot",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Iron Leggings",
+        "legacy": 308,
+        "name": "minecraft:iron_leggings",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Iron Nugget",
+        "legacy": 452,
+        "name": "minecraft:iron_nugget",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Iron Ore",
+        "legacy": 15,
+        "name": "minecraft:iron_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Iron Pickaxe",
+        "legacy": 257,
+        "name": "minecraft:iron_pickaxe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Iron Shovel",
+        "legacy": 256,
+        "name": "minecraft:iron_shovel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Iron Sword",
+        "legacy": 267,
+        "name": "minecraft:iron_sword",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Iron Trapdoor",
+        "legacy": 167,
+        "name": "minecraft:iron_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Item Frame",
+        "legacy": 389,
+        "name": "minecraft:item_frame",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Jack o'Lantern",
+        "legacy": 91,
+        "name": "minecraft:jack_o_lantern",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Jukebox",
+        "legacy": 84,
+        "name": "minecraft:jukebox",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Jungle Boat",
+        "legacy": 446,
+        "name": "minecraft:jungle_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Jungle Button",
+        "legacy": null,
+        "name": "minecraft:jungle_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Jungle Door",
+        "legacy": 429,
+        "name": "minecraft:jungle_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Jungle Fence",
+        "legacy": 190,
+        "name": "minecraft:jungle_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Jungle Fence Gate",
+        "legacy": 185,
+        "name": "minecraft:jungle_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Jungle Leaves",
+        "legacy": null,
+        "name": "minecraft:jungle_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Jungle Log",
+        "legacy": null,
+        "name": "minecraft:jungle_log",
+        "category": "materials"
+    },
+    {
+        "title": "Jungle Wood Plank",
+        "legacy": null,
+        "name": "minecraft:jungle_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Jungle Pressure Plate",
+        "legacy": null,
+        "name": "minecraft:jungle_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Jungle Sapling",
+        "legacy": null,
+        "name": "minecraft:jungle_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Jungle Sign",
+        "legacy": null,
+        "name": "minecraft:jungle_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Jungle Wood Slab",
+        "legacy": null,
+        "name": "minecraft:jungle_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Jungle Wood Stairs",
+        "legacy": 136,
+        "name": "minecraft:jungle_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Jungle Trapdoor",
+        "legacy": null,
+        "name": "minecraft:jungle_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Jungle Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:jungle_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Kelp",
+        "legacy": null,
+        "name": "minecraft:kelp",
+        "category": "materials"
+    },
+    {
+        "title": "Ladder",
+        "legacy": 65,
+        "name": "minecraft:ladder",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Lantern",
+        "legacy": null,
+        "name": "minecraft:lantern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lapis Lazuli Block",
+        "legacy": 22,
+        "name": "minecraft:lapis_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lapis Lazuli",
+        "legacy": null,
+        "name": "minecraft:lapis_lazuli",
+        "category": "materials"
+    },
+    {
+        "title": "Lapis Lazuli Ore",
+        "legacy": 21,
+        "name": "minecraft:lapis_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Large Fern",
+        "legacy": null,
+        "name": "minecraft:large_fern",
+        "category": "materials"
+    },
+    {
+        "title": "Lava Bucket",
+        "legacy": 327,
+        "name": "minecraft:lava_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Lead",
+        "legacy": 420,
+        "name": "minecraft:lead",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Leather",
+        "legacy": 334,
+        "name": "minecraft:leather",
+        "category": "materials"
+    },
+    {
+        "title": "Leather Boots",
+        "legacy": 301,
+        "name": "minecraft:leather_boots",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Leather Tunic",
+        "legacy": 299,
+        "name": "minecraft:leather_chestplate",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Leather Cap",
+        "legacy": 298,
+        "name": "minecraft:leather_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Leather Horse Armor",
+        "legacy": null,
+        "name": "minecraft:leather_horse_armor",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Leather Pants",
+        "legacy": 300,
+        "name": "minecraft:leather_leggings",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Lecturn",
+        "legacy": null,
+        "name": "minecraft:lectern",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Lever",
+        "legacy": 69,
+        "name": "minecraft:lever",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Light Blue Banner",
+        "legacy": null,
+        "name": "minecraft:light_blue_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Blue Bed",
+        "legacy": null,
+        "name": "minecraft:light_blue_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Light Blue Carpet",
+        "legacy": null,
+        "name": "minecraft:light_blue_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Blue Concrete",
+        "legacy": null,
+        "name": "minecraft:light_blue_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Blue Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:light_blue_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Blue Dye",
+        "legacy": null,
+        "name": "minecraft:light_blue_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Light Blue Glazed Terracotta",
+        "legacy": 238,
+        "name": "minecraft:light_blue_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Blue Shulker Box",
+        "legacy": 222,
+        "name": "minecraft:light_blue_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Blue Stained Glass",
+        "legacy": null,
+        "name": "minecraft:light_blue_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Blue Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:light_blue_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Blue Terracotta",
+        "legacy": null,
+        "name": "minecraft:light_blue_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Blue Wool",
+        "legacy": null,
+        "name": "minecraft:light_blue_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Gray Banner",
+        "legacy": null,
+        "name": "minecraft:light_gray_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Gray Bed",
+        "legacy": null,
+        "name": "minecraft:light_gray_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Light Gray Carpet",
+        "legacy": null,
+        "name": "minecraft:light_gray_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Gray Concrete",
+        "legacy": null,
+        "name": "minecraft:light_gray_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Gray Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:light_gray_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Gray Dye",
+        "legacy": null,
+        "name": "minecraft:light_gray_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Light Gray Glazed Terracotta",
+        "legacy": null,
+        "name": "minecraft:light_gray_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Gray Shulker Box",
+        "legacy": null,
+        "name": "minecraft:light_gray_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Gray Stained Glass",
+        "legacy": null,
+        "name": "minecraft:light_gray_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Gray Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:light_gray_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Light Gray Terracotta",
+        "legacy": null,
+        "name": "minecraft:light_gray_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Gray Wool",
+        "legacy": null,
+        "name": "minecraft:light_gray_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Light Weighted Pressure Plate",
+        "legacy": 147,
+        "name": "minecraft:light_weighted_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Lilac",
+        "legacy": null,
+        "name": "minecraft:lilac",
+        "category": "materials"
+    },
+    {
+        "title": "Lily of the Valley",
+        "legacy": null,
+        "name": "minecraft:lily_of_the_valley",
+        "category": "materials"
+    },
+    {
+        "title": "Lily Pad",
+        "legacy": 111,
+        "name": "minecraft:lily_pad",
+        "category": "materials"
+    },
+    {
+        "title": "Lime Banner",
+        "legacy": null,
+        "name": "minecraft:lime_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lime Bed",
+        "legacy": null,
+        "name": "minecraft:lime_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Lime Carpet",
+        "legacy": null,
+        "name": "minecraft:lime_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lime Concrete",
+        "legacy": null,
+        "name": "minecraft:lime_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lime Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:lime_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lime Dye",
+        "legacy": null,
+        "name": "minecraft:lime_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Lime Glazed Terracotta",
+        "legacy": 240,
+        "name": "minecraft:lime_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lime Shulker Box",
+        "legacy": 224,
+        "name": "minecraft:lime_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lime Stained Glass",
+        "legacy": null,
+        "name": "minecraft:lime_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lime Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:lime_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Lime Terracotta",
+        "legacy": null,
+        "name": "minecraft:lime_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lime Wool",
+        "legacy": null,
+        "name": "minecraft:lime_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Lingering Potion of Fire Resistance (0:45)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Fire Resistance (2:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Harming (Instant Damage II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Harming (Instant Damage)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Healing (Instant Health II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Healing (Instant Health)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Invisibility (0:45)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Invisibility (2:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Leaping (0:22 - Jump Boost II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Leaping (0:45 - Jump Boost)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Leaping (2:00 - Jump Boost)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Luck (1:15)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Night Vision (0:45)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Night Vision (2:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Poison (0:05 - Poison II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Poison (0:11)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Poison (0:22)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Regeneration (0:05 - Regeneration II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Regeneration (0:11)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Regeneration (0:22)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Slow Falling (0:22)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Slow Falling (1:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Slowness (0:02 - Slowness V)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Slowness (0:22)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Slowness (1:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Strength (0:22 - Strength II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Strength (0:45)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Strength (2:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Swiftness (0:22 - Speed II)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Swiftness (0:45 - Speed)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Swiftness (2:00 - Speed)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Water Breathing (0:45)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Water Breathing (2:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Weakness (0:22)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of Weakness (1:00)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of the Turtle Master (0:05 - Slowness IV, Resistance III)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of the Turtle Master (0:05 - Slowness VI, Resistance IV)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Lingering Potion of the Turtle Master (0:10 - Slowness IV, Resistance III)",
+        "legacy": 441,
+        "name": "minecraft:lingering_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Llama Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:llama_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Loom",
+        "legacy": null,
+        "name": "minecraft:loom",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Magenta Banner",
+        "legacy": null,
+        "name": "minecraft:magenta_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Magenta Bed",
+        "legacy": null,
+        "name": "minecraft:magenta_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Magenta Carpet",
+        "legacy": null,
+        "name": "minecraft:magenta_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Magenta Concrete",
+        "legacy": null,
+        "name": "minecraft:magenta_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magenta Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:magenta_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magenta Dye",
+        "legacy": null,
+        "name": "minecraft:magenta_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Magenta Glazed Terracotta",
+        "legacy": 237,
+        "name": "minecraft:magenta_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Magenta Shulker Box",
+        "legacy": 221,
+        "name": "minecraft:magenta_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Magenta Stained Glass",
+        "legacy": null,
+        "name": "minecraft:magenta_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magenta Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:magenta_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Magenta Terracotta",
+        "legacy": null,
+        "name": "minecraft:magenta_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magenta Wool",
+        "legacy": null,
+        "name": "minecraft:magenta_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magma Block",
+        "legacy": 213,
+        "name": "minecraft:magma_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Magma Cream",
+        "legacy": 378,
+        "name": "minecraft:magma_cream",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Magma Cube Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:magma_cube_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Map",
+        "legacy": 395,
+        "name": "minecraft:map",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Block of Melon",
+        "legacy": 103,
+        "name": "minecraft:melon",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Melon Seeds",
+        "legacy": 362,
+        "name": "minecraft:melon_seeds",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Melon Slice",
+        "legacy": 360,
+        "name": "minecraft:melon_slice",
+        "category": "materials"
+    },
+    {
+        "title": "Milk",
+        "legacy": 335,
+        "name": "minecraft:milk_bucket",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Minecart",
+        "legacy": 328,
+        "name": "minecraft:minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Thing Banner Pattern",
+        "legacy": null,
+        "name": "minecraft:mojang_banner_pattern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Mooshroom Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:mooshroom_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Mossy Cobblestone",
+        "legacy": 48,
+        "name": "minecraft:mossy_cobblestone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Cobblestone Slab",
+        "legacy": null,
+        "name": "minecraft:mossy_cobblestone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Cobblestone Stairs",
+        "legacy": null,
+        "name": "minecraft:mossy_cobblestone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Cobblestone Wall",
+        "legacy": null,
+        "name": "minecraft:mossy_cobblestone_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Stone Brick Slab",
+        "legacy": null,
+        "name": "minecraft:mossy_stone_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Stone Brick Stairs",
+        "legacy": null,
+        "name": "minecraft:mossy_stone_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Stone Brick Wall",
+        "legacy": null,
+        "name": "minecraft:mossy_stone_brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mossy Stone Bricks",
+        "legacy": null,
+        "name": "minecraft:mossy_stone_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Mule Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:mule_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Mushroom Stem",
+        "legacy": null,
+        "name": "minecraft:mushroom_stem",
+        "category": "materials"
+    },
+    {
+        "title": "Mushroom Stew",
+        "legacy": 282,
+        "name": "minecraft:mushroom_stew",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - 11)",
+        "legacy": 2266,
+        "name": "minecraft:music_disc_11",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - 13)",
+        "legacy": 2256,
+        "name": "minecraft:music_disc_13",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - blocks)",
+        "legacy": 2258,
+        "name": "minecraft:music_disc_blocks",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - cat)",
+        "legacy": 2257,
+        "name": "minecraft:music_disc_cat",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - chirp)",
+        "legacy": 2259,
+        "name": "minecraft:music_disc_chirp",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - far)",
+        "legacy": 2260,
+        "name": "minecraft:music_disc_far",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - mall)",
+        "legacy": 2261,
+        "name": "minecraft:music_disc_mall",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - mellohi)",
+        "legacy": 2262,
+        "name": "minecraft:music_disc_mellohi",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - stal)",
+        "legacy": 2263,
+        "name": "minecraft:music_disc_stal",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - strad)",
+        "legacy": 2264,
+        "name": "minecraft:music_disc_strad",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - wait)",
+        "legacy": 2267,
+        "name": "minecraft:music_disc_wait",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Music Disc (C418 - ward)",
+        "legacy": 2265,
+        "name": "minecraft:music_disc_ward",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Raw Mutton",
+        "legacy": 423,
+        "name": "minecraft:mutton",
+        "category": "materials"
+    },
+    {
+        "title": "Mycelium",
+        "legacy": 110,
+        "name": "minecraft:mycelium",
+        "category": "materials"
+    },
+    {
+        "title": "Name Tag",
+        "legacy": 421,
+        "name": "minecraft:name_tag",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Nautilus Shell",
+        "legacy": null,
+        "name": "minecraft:nautilus_shell",
+        "category": "materials"
+    },
+    {
+        "title": "Nether Brick",
+        "legacy": 405,
+        "name": "minecraft:nether_brick",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Nether Brick Fence",
+        "legacy": 113,
+        "name": "minecraft:nether_brick_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Nether Brick Slab",
+        "legacy": null,
+        "name": "minecraft:nether_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Nether Brick Stairs",
+        "legacy": 114,
+        "name": "minecraft:nether_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Nether Brick Wall",
+        "legacy": null,
+        "name": "minecraft:nether_brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Block of Nether Brick",
+        "legacy": 112,
+        "name": "minecraft:nether_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Nether Quartz Ore",
+        "legacy": 153,
+        "name": "minecraft:nether_quartz_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Nether Star",
+        "legacy": 399,
+        "name": "minecraft:nether_star",
+        "category": "materials"
+    },
+    {
+        "title": "Nether Wart",
+        "legacy": 372,
+        "name": "minecraft:nether_wart",
+        "category": "materials"
+    },
+    {
+        "title": "Nether Wart Block",
+        "legacy": 214,
+        "name": "minecraft:nether_wart_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Netherrack",
+        "legacy": 87,
+        "name": "minecraft:netherrack",
+        "category": "materials"
+    },
+    {
+        "title": "Note Block",
+        "legacy": 25,
+        "name": "minecraft:note_block",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Oak Boat",
+        "legacy": 333,
+        "name": "minecraft:oak_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Oak Button",
+        "legacy": 143,
+        "name": "minecraft:oak_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Oak Door",
+        "legacy": 324,
+        "name": "minecraft:oak_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Oak Fence",
+        "legacy": 85,
+        "name": "minecraft:oak_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Oak Fence Gate",
+        "legacy": 107,
+        "name": "minecraft:oak_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Oak Leaves",
+        "legacy": null,
+        "name": "minecraft:oak_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Oak Log",
+        "legacy": null,
+        "name": "minecraft:oak_log",
+        "category": "materials"
+    },
+    {
+        "title": "Oak Wood Plank",
+        "legacy": null,
+        "name": "minecraft:oak_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Oak Pressure Plate",
+        "legacy": 72,
+        "name": "minecraft:oak_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Oak Sapling",
+        "legacy": null,
+        "name": "minecraft:oak_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Oak Sign",
+        "legacy": 323,
+        "name": "minecraft:oak_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Oak Wood Slab",
+        "legacy": null,
+        "name": "minecraft:oak_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Oak Wood Stairs",
+        "legacy": 53,
+        "name": "minecraft:oak_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Oak Trapdoor",
+        "legacy": 96,
+        "name": "minecraft:oak_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Oak Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:oak_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Observer",
+        "legacy": 218,
+        "name": "minecraft:observer",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Obsidian",
+        "legacy": 49,
+        "name": "minecraft:obsidian",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Ocelot Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:ocelot_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Orange Banner",
+        "legacy": null,
+        "name": "minecraft:orange_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Orange Bed",
+        "legacy": null,
+        "name": "minecraft:orange_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Orange Carpet",
+        "legacy": null,
+        "name": "minecraft:orange_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Orange Concrete",
+        "legacy": null,
+        "name": "minecraft:orange_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Orange Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:orange_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Orange Dye",
+        "legacy": null,
+        "name": "minecraft:orange_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Orange Glazed Terracotta",
+        "legacy": 236,
+        "name": "minecraft:orange_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Orange Shulker Box",
+        "legacy": 220,
+        "name": "minecraft:orange_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Orange Stained Glass",
+        "legacy": null,
+        "name": "minecraft:orange_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Orange Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:orange_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Orange Terracotta",
+        "legacy": null,
+        "name": "minecraft:orange_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Orange Tulip",
+        "legacy": null,
+        "name": "minecraft:orange_tulip",
+        "category": "materials"
+    },
+    {
+        "title": "Orange Wool",
+        "legacy": null,
+        "name": "minecraft:orange_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Oxeye Daisy",
+        "legacy": null,
+        "name": "minecraft:oxeye_daisy",
+        "category": "materials"
+    },
+    {
+        "title": "Packed Ice",
+        "legacy": 174,
+        "name": "minecraft:packed_ice",
+        "category": "materials"
+    },
+    {
+        "title": "Painting",
+        "legacy": 321,
+        "name": "minecraft:painting",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Panda Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:panda_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Paper",
+        "legacy": 339,
+        "name": "minecraft:paper",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Parrot Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:parrot_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Peony",
+        "legacy": null,
+        "name": "minecraft:peony",
+        "category": "materials"
+    },
+    {
+        "title": "Petrified Oak Slab",
+        "legacy": null,
+        "name": "minecraft:petrified_oak_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Phantom Membrane",
+        "legacy": null,
+        "name": "minecraft:phantom_membrane",
+        "category": "materials"
+    },
+    {
+        "title": "Phantom Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:phantom_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Pig Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:pig_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Pillager Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:pillager_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Pink Banner",
+        "legacy": null,
+        "name": "minecraft:pink_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Pink Bed",
+        "legacy": null,
+        "name": "minecraft:pink_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Pink Carpet",
+        "legacy": null,
+        "name": "minecraft:pink_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Pink Concrete",
+        "legacy": null,
+        "name": "minecraft:pink_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pink Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:pink_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pink Dye",
+        "legacy": null,
+        "name": "minecraft:pink_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Pink Glazed Terracotta",
+        "legacy": 241,
+        "name": "minecraft:pink_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Pink Shulker Box",
+        "legacy": 225,
+        "name": "minecraft:pink_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Pink Stained Glass",
+        "legacy": null,
+        "name": "minecraft:pink_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pink Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:pink_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Pink Terracotta",
+        "legacy": null,
+        "name": "minecraft:pink_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pink Tulip",
+        "legacy": null,
+        "name": "minecraft:pink_tulip",
+        "category": "materials"
+    },
+    {
+        "title": "Pink Wool",
+        "legacy": null,
+        "name": "minecraft:pink_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Piston",
+        "legacy": 33,
+        "name": "minecraft:piston",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Steve Head",
+        "legacy": null,
+        "name": "minecraft:player_head",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Podzol",
+        "legacy": null,
+        "name": "minecraft:podzol",
+        "category": "materials"
+    },
+    {
+        "title": "Poisonous Potato",
+        "legacy": 394,
+        "name": "minecraft:poisonous_potato",
+        "category": "materials"
+    },
+    {
+        "title": "Polar Bear Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:polar_bear_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Polished Andesite",
+        "legacy": null,
+        "name": "minecraft:polished_andesite",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Andesite Slab",
+        "legacy": null,
+        "name": "minecraft:polished_andesite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Andesite Stairs",
+        "legacy": null,
+        "name": "minecraft:polished_andesite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Diorite",
+        "legacy": null,
+        "name": "minecraft:polished_diorite",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Diorite Slab",
+        "legacy": null,
+        "name": "minecraft:polished_diorite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Diorite Stairs",
+        "legacy": null,
+        "name": "minecraft:polished_diorite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Granite",
+        "legacy": null,
+        "name": "minecraft:polished_granite",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Granite Slab",
+        "legacy": null,
+        "name": "minecraft:polished_granite_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Polished Granite Stairs",
+        "legacy": null,
+        "name": "minecraft:polished_granite_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Popped Chorus Fruit",
+        "legacy": null,
+        "name": "minecraft:popped_chorus_fruit",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Poppy",
+        "legacy": null,
+        "name": "minecraft:poppy",
+        "category": "materials"
+    },
+    {
+        "title": "Raw Porkchop",
+        "legacy": 319,
+        "name": "minecraft:porkchop",
+        "category": "materials"
+    },
+    {
+        "title": "Potato",
+        "legacy": 392,
+        "name": "minecraft:potato",
+        "category": "materials"
+    },
+    {
+        "title": "Potion of Fire Resistance (3:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Fire Resistance (8:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Harming (Instant Damage II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Harming (Instant Damage)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Healing (Instant Health II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Healing (Instant Health)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Invisibility (3:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Invisibility (8:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Leaping (1:30 - Jump Boost II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Leaping (3:00 - Jump Boost)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Leaping (8:00 - Jump Boost)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Luck (5:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Night Vision (3:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Night Vision (8:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Poison (0:22 - Poison II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Poison (0:45)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Poison (2:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Regeneration (0:22 - Regeneration II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Regeneration (0:45)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Regeneration (2:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Slow Falling (1:30)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Slow Falling (4:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Slowness (0:10 - Slowness V)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Slowness (1:30)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Slowness (4:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Strength (1:30 - Strength II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Strength (3:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Strength (8:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Swiftness (1:30 - Speed II)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Swiftness (3:00 - Speed)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Swiftness (8:00 - Speed)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Water Breathing (3:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Water Breathing (8:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Weakness (1:30)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of Weakness (4:00)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of the Turtle Master (0:20 - Slowness IV, Resistance III)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of the Turtle Master (0:20 - Slowness VI, Resistance IV)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Potion of the Turtle Master (0:40 - Slowness IV, Resistance III)",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Water Bottle",
+        "legacy": 373,
+        "name": "minecraft:potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Powered Rails",
+        "legacy": 27,
+        "name": "minecraft:powered_rail",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Prismarine",
+        "legacy": 168,
+        "name": "minecraft:prismarine",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Brick Slab",
+        "legacy": null,
+        "name": "minecraft:prismarine_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Bricks Stairs",
+        "legacy": null,
+        "name": "minecraft:prismarine_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Bricks",
+        "legacy": null,
+        "name": "minecraft:prismarine_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Crystals",
+        "legacy": 410,
+        "name": "minecraft:prismarine_crystals",
+        "category": "materials"
+    },
+    {
+        "title": "Prismarine Shard",
+        "legacy": 409,
+        "name": "minecraft:prismarine_shard",
+        "category": "materials"
+    },
+    {
+        "title": "Prismarine Slab",
+        "legacy": null,
+        "name": "minecraft:prismarine_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Stairs",
+        "legacy": null,
+        "name": "minecraft:prismarine_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Prismarine Wall",
+        "legacy": null,
+        "name": "minecraft:prismarine_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pufferfish",
+        "legacy": null,
+        "name": "minecraft:pufferfish",
+        "category": "materials"
+    },
+    {
+        "title": "Bucket of Pufferfish",
+        "legacy": null,
+        "name": "minecraft:pufferfish_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Pufferfish Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:pufferfish_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Pumpkin",
+        "legacy": 86,
+        "name": "minecraft:pumpkin",
+        "category": "materials"
+    },
+    {
+        "title": "Pumpkin Pie",
+        "legacy": 400,
+        "name": "minecraft:pumpkin_pie",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Pumpkin Seeds",
+        "legacy": 361,
+        "name": "minecraft:pumpkin_seeds",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Purple Banner",
+        "legacy": null,
+        "name": "minecraft:purple_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Purple Bed",
+        "legacy": null,
+        "name": "minecraft:purple_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Purple Carpet",
+        "legacy": null,
+        "name": "minecraft:purple_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Purple Concrete",
+        "legacy": null,
+        "name": "minecraft:purple_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purple Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:purple_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purple Dye",
+        "legacy": null,
+        "name": "minecraft:purple_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Purple Glazed Terracotta",
+        "legacy": 245,
+        "name": "minecraft:purple_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Purple Shulker Box",
+        "legacy": 229,
+        "name": "minecraft:purple_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Purple Stained Glass",
+        "legacy": null,
+        "name": "minecraft:purple_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purple Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:purple_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Purple Terracotta",
+        "legacy": null,
+        "name": "minecraft:purple_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purple Wool",
+        "legacy": null,
+        "name": "minecraft:purple_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purpur Block",
+        "legacy": 201,
+        "name": "minecraft:purpur_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purpur Pillar",
+        "legacy": 202,
+        "name": "minecraft:purpur_pillar",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purpur Slab",
+        "legacy": 205,
+        "name": "minecraft:purpur_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Purpur Stairs",
+        "legacy": 203,
+        "name": "minecraft:purpur_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Nether Quartz",
+        "legacy": 406,
+        "name": "minecraft:quartz",
+        "category": "materials"
+    },
+    {
+        "title": "Block of Quartz",
+        "legacy": 155,
+        "name": "minecraft:quartz_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Pillar Quartz Block",
+        "legacy": null,
+        "name": "minecraft:quartz_pillar",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Quartz Slab",
+        "legacy": null,
+        "name": "minecraft:quartz_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Quartz Stairs",
+        "legacy": 156,
+        "name": "minecraft:quartz_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Raw Rabbit",
+        "legacy": 411,
+        "name": "minecraft:rabbit",
+        "category": "materials"
+    },
+    {
+        "title": "Rabbit's Foot",
+        "legacy": 414,
+        "name": "minecraft:rabbit_foot",
+        "category": "materials"
+    },
+    {
+        "title": "Rabbit Hide",
+        "legacy": 415,
+        "name": "minecraft:rabbit_hide",
+        "category": "materials"
+    },
+    {
+        "title": "Rabbit Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:rabbit_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Rabbit Stew",
+        "legacy": 413,
+        "name": "minecraft:rabbit_stew",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Rails",
+        "legacy": 66,
+        "name": "minecraft:rail",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Ravager Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:ravager_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Red Banner",
+        "legacy": null,
+        "name": "minecraft:red_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Red Bed",
+        "legacy": null,
+        "name": "minecraft:red_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Red Carpet",
+        "legacy": null,
+        "name": "minecraft:red_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Red Concrete",
+        "legacy": null,
+        "name": "minecraft:red_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:red_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Dye",
+        "legacy": null,
+        "name": "minecraft:red_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Red Glazed Terracotta",
+        "legacy": 249,
+        "name": "minecraft:red_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Mushroom (red with white spots)",
+        "legacy": 40,
+        "name": "minecraft:red_mushroom",
+        "category": "materials"
+    },
+    {
+        "title": "Red Mushroom Block",
+        "legacy": 100,
+        "name": "minecraft:red_mushroom_block",
+        "category": "materials"
+    },
+    {
+        "title": "Red Nether Brick Slab",
+        "legacy": null,
+        "name": "minecraft:red_nether_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Nether Brick Stairs",
+        "legacy": null,
+        "name": "minecraft:red_nether_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Nether Brick Wall",
+        "legacy": null,
+        "name": "minecraft:red_nether_brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Nether Brick",
+        "legacy": 215,
+        "name": "minecraft:red_nether_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Sand",
+        "legacy": null,
+        "name": "minecraft:red_sand",
+        "category": "materials"
+    },
+    {
+        "title": "Red Sandstone",
+        "legacy": 179,
+        "name": "minecraft:red_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:red_sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Sandstone Stairs",
+        "legacy": 180,
+        "name": "minecraft:red_sandstone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Sandstone Wall",
+        "legacy": null,
+        "name": "minecraft:red_sandstone_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Shulker Box",
+        "legacy": 233,
+        "name": "minecraft:red_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Red Stained Glass",
+        "legacy": null,
+        "name": "minecraft:red_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:red_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Red Terracotta",
+        "legacy": null,
+        "name": "minecraft:red_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Red Tulip",
+        "legacy": null,
+        "name": "minecraft:red_tulip",
+        "category": "materials"
+    },
+    {
+        "title": "Red Wool",
+        "legacy": null,
+        "name": "minecraft:red_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Redstone",
+        "legacy": 331,
+        "name": "minecraft:redstone",
+        "category": "materials"
+    },
+    {
+        "title": "Block of Redstone",
+        "legacy": 152,
+        "name": "minecraft:redstone_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Redstone Lamp",
+        "legacy": 123,
+        "name": "minecraft:redstone_lamp",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Redstone Ore",
+        "legacy": 73,
+        "name": "minecraft:redstone_ore",
+        "category": "materials"
+    },
+    {
+        "title": "Redstone Torch",
+        "legacy": 76,
+        "name": "minecraft:redstone_torch",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Redstone Repeater",
+        "legacy": 356,
+        "name": "minecraft:repeater",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Repeating Command Block",
+        "legacy": 210,
+        "name": "minecraft:repeating_command_block",
+        "category": "command_blocks"
+    },
+    {
+        "title": "Rose Bush",
+        "legacy": null,
+        "name": "minecraft:rose_bush",
+        "category": "materials"
+    },
+    {
+        "title": "Rotten Flesh",
+        "legacy": 367,
+        "name": "minecraft:rotten_flesh",
+        "category": "materials"
+    },
+    {
+        "title": "Saddle",
+        "legacy": 329,
+        "name": "minecraft:saddle",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Raw Salmon",
+        "legacy": null,
+        "name": "minecraft:salmon",
+        "category": "materials"
+    },
+    {
+        "title": "Bucket of Salmon",
+        "legacy": null,
+        "name": "minecraft:salmon_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Salmon Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:salmon_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Sand",
+        "legacy": null,
+        "name": "minecraft:sand",
+        "category": "materials"
+    },
+    {
+        "title": "Sandstone",
+        "legacy": 24,
+        "name": "minecraft:sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Sandstone Stairs",
+        "legacy": 128,
+        "name": "minecraft:sandstone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Sandstone Wall",
+        "legacy": null,
+        "name": "minecraft:sandstone_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Scaffolding",
+        "legacy": null,
+        "name": "minecraft:scaffolding",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Scute",
+        "legacy": null,
+        "name": "minecraft:scute",
+        "category": "materials"
+    },
+    {
+        "title": "Sea Lantern",
+        "legacy": 169,
+        "name": "minecraft:sea_lantern",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Sea Pickle",
+        "legacy": null,
+        "name": "minecraft:sea_pickle",
+        "category": "materials"
+    },
+    {
+        "title": "Sea Grass",
+        "legacy": null,
+        "name": "minecraft:seagrass",
+        "category": "materials"
+    },
+    {
+        "title": "Shears",
+        "legacy": 359,
+        "name": "minecraft:shears",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Sheep Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:sheep_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Shield",
+        "legacy": 442,
+        "name": "minecraft:shield",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Shulker Box",
+        "legacy": null,
+        "name": "minecraft:shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Shulker Shell",
+        "legacy": 450,
+        "name": "minecraft:shulker_shell",
+        "category": "materials"
+    },
+    {
+        "title": "Shulker Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:shulker_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Silverfish Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:silverfish_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Skeleton Horse Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:skeleton_horse_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Skeleton Skull",
+        "legacy": null,
+        "name": "minecraft:skeleton_skull",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Skeleton Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:skeleton_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Skull Charge Banner Pattern",
+        "legacy": null,
+        "name": "minecraft:skull_banner_pattern",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Slimeball",
+        "legacy": 341,
+        "name": "minecraft:slime_ball",
+        "category": "materials"
+    },
+    {
+        "title": "Slime Block",
+        "legacy": 165,
+        "name": "minecraft:slime_block",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Slime Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:slime_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Smithing Table",
+        "legacy": null,
+        "name": "minecraft:smithing_table",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Smoker",
+        "legacy": null,
+        "name": "minecraft:smoker",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Smooth Quartz",
+        "legacy": null,
+        "name": "minecraft:smooth_quartz",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Quartz Slab",
+        "legacy": null,
+        "name": "minecraft:smooth_quartz_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Quartz Stairs",
+        "legacy": null,
+        "name": "minecraft:smooth_quartz_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Red Sandstone",
+        "legacy": null,
+        "name": "minecraft:smooth_red_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Red Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:smooth_red_sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Red Sandstone Stairs",
+        "legacy": null,
+        "name": "minecraft:smooth_red_sandstone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Sandstone",
+        "legacy": null,
+        "name": "minecraft:smooth_sandstone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Sandstone Slab",
+        "legacy": null,
+        "name": "minecraft:smooth_sandstone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Sandstone Stairs",
+        "legacy": null,
+        "name": "minecraft:smooth_sandstone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Stone",
+        "legacy": null,
+        "name": "minecraft:smooth_stone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Smooth Stone Slab",
+        "legacy": null,
+        "name": "minecraft:smooth_stone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Snow",
+        "legacy": null,
+        "name": "minecraft:snow",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Snow Block",
+        "legacy": 80,
+        "name": "minecraft:snow_block",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Snowball",
+        "legacy": 332,
+        "name": "minecraft:snowball",
+        "category": "materials"
+    },
+    {
+        "title": "Soul Sand",
+        "legacy": 88,
+        "name": "minecraft:soul_sand",
+        "category": "materials"
+    },
+    {
+        "title": "Monster Spawner",
+        "legacy": null,
+        "name": "minecraft:spawner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Spectral Arrow",
+        "legacy": 439,
+        "name": "minecraft:spectral_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Spider Eye",
+        "legacy": 375,
+        "name": "minecraft:spider_eye",
+        "category": "materials"
+    },
+    {
+        "title": "Spider Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:spider_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Splash Potion of Fire Resistance (3:00/2:15)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Fire Resistance (6:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Harming (Instant Damage II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Harming (Instant Damage)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Healing (Instant Health II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Healing (Instant Health)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Invisibility (3:00/2:15)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Invisibility (8:00/6:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Leaping (1:30/1:07 - Jump Boost II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Leaping (3:00/2:15 - Jump Boost)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Leaping (8:00/6:00 - Jump Boost)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Luck (5:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Night Vision (3:00/2:15)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Night Vision (8:00/6:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Poison (0:22/0:16 - Poison II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Poison (0:45/0:33)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Poison (1:30)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Regeneration (0:22/0:16 - Regeneration II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Regeneration (0:45/0:33)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Regeneration (1:30)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Slow Falling (1:30)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Slow Falling (4:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Slowness (0:10 - Slowness V)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Slowness (1:30/1:07)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Slowness (4:00/3:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Strength (1:30/1:07 - Strength II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Strength (3:00/2:15)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Strength (8:00/6:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Swiftness (1:30/1:07 - Speed II)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Swiftness (3:00/2:15 - Speed)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Swiftness (8:00/6:00 - Speed)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Water Breathing (3:00/2:15)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Water Breathing (8:00/6:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Weakness (1:30/1:07)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of Weakness (4:00/3:00)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of the Turtle Master (0:15 - Slowness IV, Resistance III)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of the Turtle Master (0:15 - Slowness VI, Resistance IV)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Splash Potion of the Turtle Master (0:30 - Slowness IV, Resistance III)",
+        "legacy": 438,
+        "name": "minecraft:splash_potion",
+        "category": "brewing_recipes"
+    },
+    {
+        "title": "Sponge",
+        "legacy": 19,
+        "name": "minecraft:sponge",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Spruce Boat",
+        "legacy": 444,
+        "name": "minecraft:spruce_boat",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Spruce Button",
+        "legacy": null,
+        "name": "minecraft:spruce_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Spruce Door",
+        "legacy": 427,
+        "name": "minecraft:spruce_door",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Spruce Fence",
+        "legacy": 188,
+        "name": "minecraft:spruce_fence",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Spruce Fence Gate",
+        "legacy": 183,
+        "name": "minecraft:spruce_fence_gate",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Spruce Leaves",
+        "legacy": null,
+        "name": "minecraft:spruce_leaves",
+        "category": "materials"
+    },
+    {
+        "title": "Spruce Log",
+        "legacy": null,
+        "name": "minecraft:spruce_log",
+        "category": "materials"
+    },
+    {
+        "title": "Spruce Wood Plank",
+        "legacy": null,
+        "name": "minecraft:spruce_planks",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Spruce Pressure Plate",
+        "legacy": null,
+        "name": "minecraft:spruce_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Spruce Sapling",
+        "legacy": null,
+        "name": "minecraft:spruce_sapling",
+        "category": "materials"
+    },
+    {
+        "title": "Spruce Sign",
+        "legacy": null,
+        "name": "minecraft:spruce_sign",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Spruce Wood Slab",
+        "legacy": null,
+        "name": "minecraft:spruce_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Spruce Wood Stairs",
+        "legacy": 134,
+        "name": "minecraft:spruce_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Spruce Trapdoor",
+        "legacy": null,
+        "name": "minecraft:spruce_trapdoor",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Spruce Wood with Bark",
+        "legacy": null,
+        "name": "minecraft:spruce_wood",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Squid Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:squid_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Stick",
+        "legacy": 280,
+        "name": "minecraft:stick",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Sticky Piston",
+        "legacy": 29,
+        "name": "minecraft:sticky_piston",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Stone",
+        "legacy": 1,
+        "name": "minecraft:stone",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Axe",
+        "legacy": 275,
+        "name": "minecraft:stone_axe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Stone Brick Slab",
+        "legacy": null,
+        "name": "minecraft:stone_brick_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Brick Stairs",
+        "legacy": 109,
+        "name": "minecraft:stone_brick_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Brick Wall",
+        "legacy": null,
+        "name": "minecraft:stone_brick_wall",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Bricks",
+        "legacy": null,
+        "name": "minecraft:stone_bricks",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Button",
+        "legacy": 77,
+        "name": "minecraft:stone_button",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Stone Hoe",
+        "legacy": 291,
+        "name": "minecraft:stone_hoe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Stone Pickaxe",
+        "legacy": 274,
+        "name": "minecraft:stone_pickaxe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Stone Pressure Plate",
+        "legacy": 70,
+        "name": "minecraft:stone_pressure_plate",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Stone Shovel",
+        "legacy": 273,
+        "name": "minecraft:stone_shovel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Stone Slab",
+        "legacy": null,
+        "name": "minecraft:stone_slab",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Stairs",
+        "legacy": null,
+        "name": "minecraft:stone_stairs",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Stone Sword",
+        "legacy": 272,
+        "name": "minecraft:stone_sword",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Stray Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:stray_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "String",
+        "legacy": 287,
+        "name": "minecraft:string",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Acacia Log",
+        "legacy": null,
+        "name": "minecraft:stripped_acacia_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Acacia Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_acacia_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Birch Log",
+        "legacy": null,
+        "name": "minecraft:stripped_birch_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Birch Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_birch_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Dark Oak Log",
+        "legacy": null,
+        "name": "minecraft:stripped_dark_oak_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Dark Oak Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_dark_oak_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Jungle Log",
+        "legacy": null,
+        "name": "minecraft:stripped_jungle_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Jungle Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_jungle_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Oak Log",
+        "legacy": null,
+        "name": "minecraft:stripped_oak_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Oak Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_oak_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Spruce Log",
+        "legacy": null,
+        "name": "minecraft:stripped_spruce_log",
+        "category": "materials"
+    },
+    {
+        "title": "Stripped Spruce Wood",
+        "legacy": null,
+        "name": "minecraft:stripped_spruce_wood",
+        "category": "materials"
+    },
+    {
+        "title": "Structure Block",
+        "legacy": 255,
+        "name": "minecraft:structure_block",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Structure Void",
+        "legacy": 217,
+        "name": "minecraft:structure_void",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Sugar",
+        "legacy": 353,
+        "name": "minecraft:sugar",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Sugar Canes",
+        "legacy": 338,
+        "name": "minecraft:sugar_cane",
+        "category": "materials"
+    },
+    {
+        "title": "Sunflower",
+        "legacy": null,
+        "name": "minecraft:sunflower",
+        "category": "materials"
+    },
+    {
+        "title": "Suspicious Stew",
+        "legacy": null,
+        "name": "minecraft:suspicious_stew",
+        "category": "food_recipes"
+    },
+    {
+        "title": "Sweet Berries",
+        "legacy": null,
+        "name": "minecraft:sweet_berries",
+        "category": "materials"
+    },
+    {
+        "title": "Double Tallgrass",
+        "legacy": null,
+        "name": "minecraft:tall_grass",
+        "category": "materials"
+    },
+    {
+        "title": "Terracotta",
+        "legacy": 172,
+        "name": "minecraft:terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Arrow of Fire Resistance (0:22)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Fire Resistance (1:00)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Harming (Instant Damage II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Harming (Instant Damage)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Healing (Instant Health II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Healing (Instant Health)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Invisibility (0:22)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Invisibility (1:00)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Leaping (0:11 - Jump Boost II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Leaping (0:22 - Jump Boost)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Leaping (1:00 - Jump Boost)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Luck (0:37)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Night Vision (0:22)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Night Vision (1:00)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Poison (0:02 - Poison II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Poison (0:05)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Poison (0:11)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Regeneration (0:02 - Regeneration II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Regeneration (0:05)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Regeneration (0:11)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Slow Falling (0:11)",
+        "legacy": 400,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Slow Falling (0:30)",
+        "legacy": 400,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Slowness (0:01 - Slowness V)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Slowness (0:11)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Slowness (0:30)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Strength (0:11 - Strength II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Strength (0:22)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Strength (1:00)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Swiftness (0:11 - Speed II)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Swiftness (0:22 - Speed)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Swiftness (1:00 - Speed)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Water Breathing (0:22)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Water Breathing (1:00)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Weakness (0:11)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of Weakness (0:30)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of the Turtle Master (0:02 - Slowness IV, Resistance III)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of the Turtle Master (0:02 - Slowness VI, Resistance IV)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Arrow of the Turtle Master (0:05 - Slowness IV, Resistance III)",
+        "legacy": 440,
+        "name": "minecraft:tipped_arrow",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "TNT",
+        "legacy": 46,
+        "name": "minecraft:tnt",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Minecart with TNT",
+        "legacy": 407,
+        "name": "minecraft:tnt_minecart",
+        "category": "transportation_recipes"
+    },
+    {
+        "title": "Torch",
+        "legacy": 50,
+        "name": "minecraft:torch",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Totem of Undying",
+        "legacy": 449,
+        "name": "minecraft:totem_of_undying",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Trader Llama Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:trader_llama_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Trapped Chest",
+        "legacy": 146,
+        "name": "minecraft:trapped_chest",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Trident",
+        "legacy": null,
+        "name": "minecraft:trident",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Tripwire Hook",
+        "legacy": 131,
+        "name": "minecraft:tripwire_hook",
+        "category": "mechanism_recipes"
+    },
+    {
+        "title": "Tropical Fish (Clownfish)",
+        "legacy": null,
+        "name": "minecraft:tropical_fish",
+        "category": "materials"
+    },
+    {
+        "title": "Bucket of Tropical Fish",
+        "legacy": null,
+        "name": "minecraft:tropical_fish_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Tropical Fish Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:tropical_fish_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Tube Coral",
+        "legacy": null,
+        "name": "minecraft:tube_coral",
+        "category": "materials"
+    },
+    {
+        "title": "Tube Coral Block",
+        "legacy": null,
+        "name": "minecraft:tube_coral_block",
+        "category": "materials"
+    },
+    {
+        "title": "Tube Coral Fan",
+        "legacy": null,
+        "name": "minecraft:tube_coral_fan",
+        "category": "materials"
+    },
+    {
+        "title": "Turtle Egg",
+        "legacy": null,
+        "name": "minecraft:turtle_egg",
+        "category": "materials"
+    },
+    {
+        "title": "Turtle Shell",
+        "legacy": null,
+        "name": "minecraft:turtle_helmet",
+        "category": "armor_recipes"
+    },
+    {
+        "title": "Turtle Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:turtle_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Vex Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:vex_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Villager Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:villager_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Vindicator Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:vindicator_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Vines",
+        "legacy": 106,
+        "name": "minecraft:vine",
+        "category": "materials"
+    },
+    {
+        "title": "Wandering Trader Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:wandering_trader_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Water Bucket",
+        "legacy": 326,
+        "name": "minecraft:water_bucket",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Wet Sponge",
+        "legacy": null,
+        "name": "minecraft:wet_sponge",
+        "category": "materials"
+    },
+    {
+        "title": "Wheat",
+        "legacy": 296,
+        "name": "minecraft:wheat",
+        "category": "materials"
+    },
+    {
+        "title": "Seeds",
+        "legacy": 295,
+        "name": "minecraft:wheat_seeds",
+        "category": "materials"
+    },
+    {
+        "title": "White Banner",
+        "legacy": null,
+        "name": "minecraft:white_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "White Bed",
+        "legacy": null,
+        "name": "minecraft:white_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "White Carpet",
+        "legacy": null,
+        "name": "minecraft:white_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "White Concrete",
+        "legacy": null,
+        "name": "minecraft:white_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "White Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:white_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "White Dye",
+        "legacy": null,
+        "name": "minecraft:white_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "White Glazed Terracotta",
+        "legacy": 235,
+        "name": "minecraft:white_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "White Shulker Box",
+        "legacy": 219,
+        "name": "minecraft:white_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "White Stained Glass",
+        "legacy": null,
+        "name": "minecraft:white_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "White Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:white_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "White Terracotta",
+        "legacy": null,
+        "name": "minecraft:white_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "White Tulip",
+        "legacy": null,
+        "name": "minecraft:white_tulip",
+        "category": "materials"
+    },
+    {
+        "title": "White Wool",
+        "legacy": null,
+        "name": "minecraft:white_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Witch Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:witch_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Wither Rose",
+        "legacy": null,
+        "name": "minecraft:wither_rose",
+        "category": "materials"
+    },
+    {
+        "title": "Wither Skeleton Skull",
+        "legacy": null,
+        "name": "minecraft:wither_skeleton_skull",
+        "category": "materials"
+    },
+    {
+        "title": "Wither Skeleton Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:wither_skeleton_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Wolf Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:wolf_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Wooden Axe",
+        "legacy": 271,
+        "name": "minecraft:wooden_axe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Wooden Hoe",
+        "legacy": 290,
+        "name": "minecraft:wooden_hoe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Wooden Pickaxe",
+        "legacy": 270,
+        "name": "minecraft:wooden_pickaxe",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Wooden Shovel",
+        "legacy": 269,
+        "name": "minecraft:wooden_shovel",
+        "category": "tool_recipes"
+    },
+    {
+        "title": "Wooden Sword",
+        "legacy": 268,
+        "name": "minecraft:wooden_sword",
+        "category": "weapon_recipes"
+    },
+    {
+        "title": "Book and Quill",
+        "legacy": 386,
+        "name": "minecraft:writable_book",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Written Book",
+        "legacy": 387,
+        "name": "minecraft:written_book",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Yellow Banner",
+        "legacy": null,
+        "name": "minecraft:yellow_banner",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Yellow Bed",
+        "legacy": null,
+        "name": "minecraft:yellow_bed",
+        "category": "basic_recipes"
+    },
+    {
+        "title": "Yellow Carpet",
+        "legacy": null,
+        "name": "minecraft:yellow_carpet",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Yellow Concrete",
+        "legacy": null,
+        "name": "minecraft:yellow_concrete",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Yellow Concrete Powder",
+        "legacy": null,
+        "name": "minecraft:yellow_concrete_powder",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Yellow Dye",
+        "legacy": null,
+        "name": "minecraft:yellow_dye",
+        "category": "dye_recipes"
+    },
+    {
+        "title": "Yellow Glazed Terracotta",
+        "legacy": 239,
+        "name": "minecraft:yellow_glazed_terracotta",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Yellow Shulker Box",
+        "legacy": 223,
+        "name": "minecraft:yellow_shulker_box",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Yellow Stained Glass",
+        "legacy": null,
+        "name": "minecraft:yellow_stained_glass",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Yellow Stained Glass Pane",
+        "legacy": null,
+        "name": "minecraft:yellow_stained_glass_pane",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Yellow Terracotta",
+        "legacy": null,
+        "name": "minecraft:yellow_terracotta",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Yellow Wool",
+        "legacy": null,
+        "name": "minecraft:yellow_wool",
+        "category": "block_recipes"
+    },
+    {
+        "title": "Zombie Head",
+        "legacy": null,
+        "name": "minecraft:zombie_head",
+        "category": "decoration_recipes"
+    },
+    {
+        "title": "Zombie Horse Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:zombie_horse_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Zombie Pigman Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:zombie_pigman_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Zombie Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:zombie_spawn_egg",
+        "category": "spawn_eggs"
+    },
+    {
+        "title": "Zombie Villager Spawn Egg",
+        "legacy": null,
+        "name": "minecraft:zombie_villager_spawn_egg",
+        "category": "spawn_eggs"
+    }
+]

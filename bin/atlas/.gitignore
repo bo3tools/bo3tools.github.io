@@ -1,0 +1,15 @@
+node_modules
+
+blocks/*.png
+blocks/*.mcmeta
+!blocks/__*.png
+
+recolored/*.png
+
+minecraft-ids.json
+legacy-ids.json
+block-map.txt
+
+texture.png
+
+package-lock.json
