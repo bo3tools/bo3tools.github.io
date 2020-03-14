@@ -6,8 +6,10 @@ var textureLoader = new THREE.TextureLoader();
 var aoMap = textureLoader.load("lightmap.png");
 var texture = textureLoader.load("texture.png");
 
+/*Load the bo3 file, parse the data and create the model*/
 function parseAndShowModel(file) {
     var reader = new FileReader();
+    //Load event
     reader.onload = function(e) {
         var content = bo3.read(e.target.result);
         if (content.errors.length > 0) {
@@ -19,13 +21,17 @@ function parseAndShowModel(file) {
             return block.block != "AIR";
         });
 
+        //Create a merges model from the blocks
         var model = createModel(blocks);
+        //Replace the bo3 on screen with the new one
         setMainModel(model);
         
     };
+    //Read File
     reader.readAsText(file);
 }
 
+//Drag and drop on the entire screen + file validation
 function attachDragAndDropHandlers() {
     var element = document.getElementById("window");
     element.addEventListener("drop", function(e) {
@@ -60,11 +66,13 @@ function attachDragAndDropHandlers() {
     });
 }
 
+//MAIN METHOD
 function init() {
     three();
     attachDragAndDropHandlers();
 }
 
+//Create merged mesh
 function createModel(blocks) {
     var data = blocksTo3dArray(blocks);
     var geometry = generateNewGeometry(data.blocks, data.voxels);
@@ -92,6 +100,7 @@ function blocksTo3dArray(blocks) {
     var block = null;
     var i = 0;
 
+    //min and max x,y and z values of the bo3
     var min = {x: 0, y: 0, z: 0};
     var max = {x: 0, y: 0, z: 0};
     var names = {
@@ -703,6 +712,7 @@ function generateNewGeometry(blocks, voxels) {
                 // Get the block next to this face
                 var next = getBlock(x + dir[0], y + dir[1], z + dir[2]);
 
+                //Only draw visible faces
                 // If next block is air
                 if (!isBlockSolid(next) || (isBlockTransparent(next) && !isBlockTransparent(block))) {
                     idx = positions.length / 3;
