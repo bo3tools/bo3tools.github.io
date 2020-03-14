@@ -6,7 +6,7 @@ var textureLoader = new THREE.TextureLoader();
 var aoMap = textureLoader.load("lightmap.png");
 var texture = textureLoader.load("texture.png");
 
-/*###Load the bo3 file, parse the data and create the model###*/
+/*Load the bo3 file, parse the data and create the model*/
 function parseAndShowModel(file) {
     var reader = new FileReader();
     //Load event
