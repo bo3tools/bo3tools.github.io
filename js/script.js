@@ -6,7 +6,7 @@ var textureLoader = new THREE.TextureLoader();
 var aoMap = textureLoader.load("lightmap.png");
 var texture = textureLoader.load("texture.png");
 
-/*Load the bo3 file, parse the data and create the model*/
+//Load the bo3 file, parse the data and create the model
 function parseAndShowModel(file) {
     var reader = new FileReader();
     //Load event
@@ -21,7 +21,7 @@ function parseAndShowModel(file) {
             return block.block != "AIR";
         });
 
-        //Create a merges model from the blocks
+        //Create a group object from the blocks
         var model = createModel(blocks);
         //Replace the bo3 on screen with the new one
         setMainModel(model);
@@ -72,7 +72,7 @@ function init() {
     attachDragAndDropHandlers();
 }
 
-//Create merged mesh
+//Create mesh group
 function createModel(blocks) {
     var data = blocksTo3dArray(blocks);
     var geometry = generateNewGeometry(data.blocks, data.voxels);
