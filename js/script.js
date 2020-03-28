@@ -6,10 +6,10 @@ var textureLoader = new THREE.TextureLoader();
 var aoMap = textureLoader.load("lightmap.png");
 var texture = textureLoader.load("texture.png");
 
-//Load the bo3 file, parse the data and create the model
+// Load the .bo3 file from the drag and drop operation, parse its content and create the model
 function parseAndShowModel(file) {
     var reader = new FileReader();
-    //Load event
+
     reader.onload = function(e) {
         var content = bo3.read(e.target.result);
         if (content.errors.length > 0) {
@@ -21,17 +21,18 @@ function parseAndShowModel(file) {
             return block.block != "AIR";
         });
 
-        //Create a group object from the blocks
+        // Create a group object from the blocks
         var model = createModel(blocks);
-        //Replace the bo3 on screen with the new one
+
+        // Remove previous object from the scene, add new model to the scene
         setMainModel(model);
         
     };
-    //Read File
+
     reader.readAsText(file);
 }
 
-//Drag and drop on the entire screen + file validation
+// Drag and drop on the entire screen + file validation
 function attachDragAndDropHandlers() {
     var element = document.getElementById("window");
     element.addEventListener("drop", function(e) {
@@ -52,27 +53,30 @@ function attachDragAndDropHandlers() {
             window.alert("No .bo3 files found");
         }
     });
+
     element.addEventListener("dragover", function(e) {
         element.dataset.isDragging = true;
         e.preventDefault();
     });
+    
     element.addEventListener("dragexit", function(e) {
         element.dataset.isDragging = false;
         e.preventDefault();
     });
+    
     element.addEventListener("dragend", function(e) {
         element.dataset.isDragging = false;
         e.preventDefault();
     });
 }
 
-//MAIN METHOD
+// This function gets called when the page is loaded
 function init() {
     three();
     attachDragAndDropHandlers();
 }
 
-//Create mesh group
+// Create a mesh group of the block geometry and its bounding box
 function createModel(blocks) {
     var data = blocksTo3dArray(blocks);
     var geometry = generateNewGeometry(data.blocks, data.voxels);
@@ -100,9 +104,10 @@ function blocksTo3dArray(blocks) {
     var block = null;
     var i = 0;
 
-    //min and max x,y and z values of the bo3
+    // Smallest and largest block coordinates set by this .bo3
     var min = {x: 0, y: 0, z: 0};
     var max = {x: 0, y: 0, z: 0};
+
     var names = {
         "AIR": 0,
         "STONE": 1,
@@ -712,8 +717,8 @@ function generateNewGeometry(blocks, voxels) {
                 // Get the block next to this face
                 var next = getBlock(x + dir[0], y + dir[1], z + dir[2]);
 
-                //Only draw visible faces
-                // If next block is air
+                // Only draws visible faces
+                // If the block next to this face is air
                 if (!isBlockSolid(next) || (isBlockTransparent(next) && !isBlockTransparent(block))) {
                     idx = positions.length / 3;
                     for (c = 0; c < corners.length; c++) {
