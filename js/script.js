@@ -21,9 +21,7 @@ function parseAndShowModel(file) {
             return block.block != "AIR";
         });
 
-
         // Create a group object from the blocks
-
         var model = createModel(blocks);
 
         // Remove previous object from the scene, add new model to the scene
@@ -78,9 +76,7 @@ function init() {
     attachDragAndDropHandlers();
 }
 
-
 // Create a mesh group of the block geometry and its bounding box
-
 function createModel(blocks) {
     var data = blocksTo3dArray(blocks);
     var geometry = generateNewGeometry(data.blocks, data.voxels);
