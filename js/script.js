@@ -924,5 +924,4 @@ function three() {
     }
 
     render();
-    
 }
